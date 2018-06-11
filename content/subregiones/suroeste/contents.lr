@@ -1,0 +1,7 @@
+_model: subregiones
+---
+name: Suroeste
+---
+_template: sub.html
+---
+image: plaza_jardin_png.png

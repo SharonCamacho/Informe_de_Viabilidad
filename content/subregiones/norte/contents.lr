@@ -3,3 +3,5 @@ _model: subregiones
 name: Norte
 ---
 _template: sub.html
+---
+image: subregiones.norte.NORTE,., (3)gk-is-1015.JPG
