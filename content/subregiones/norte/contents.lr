@@ -1,0 +1,5 @@
+_model: subregiones
+---
+name: Norte
+---
+_template: sub.html

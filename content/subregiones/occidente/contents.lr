@@ -1,0 +1,7 @@
+_model: subregiones
+---
+name: Occidente
+---
+last_name: Antioquia
+---
+_template: sub.html
