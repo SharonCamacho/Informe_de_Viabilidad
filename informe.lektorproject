@@ -1,2 +1,4 @@
 [project]
 name = informe
+[servers.ghpages]
+target = ghpages+https://SharonCamacho/Informe_de_Viabilidad
