@@ -167,7 +167,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: #ddd;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -233,6 +233,29 @@ header.masthead .intro-text .intro-heading {
 .service-heading {
   margin: 15px 0;
   text-transform: none;
+}
+
+#Incumplimiento {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#Incumplimiento td, #Incumplimiento th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#Incumplimiento tr:nth-child(even){background-color: #f2f2f2;}
+
+#Incumplimiento tr:hover {background-color: #ddd;}
+
+#Incumplimiento th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    text-align: center;
+    color: black;
 }
 
 #portfolio .portfolio-item {
