@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Puerto Berrío
+---
+categoria: 6
+---
+indicador: 75,10%
+---
+limite: 80%
+---
+subregion: Magdalena Medio

@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Argelia
+---
+categoria: 6
+---
+indicador: 78,90%
+---
+limite: 80%
+---
+subregion: Oriente

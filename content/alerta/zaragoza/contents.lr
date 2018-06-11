@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Zaragoza
+---
+categoria: 6
+---
+indicador: 79,62%
+---
+limite: 80%
+---
+subregion: Bajo Cauca

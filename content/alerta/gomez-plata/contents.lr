@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Gómez Plata
+---
+categoria: 6
+---
+indicador: 75,74%
+---
+limite: 80%
+---
+subregion: Norte

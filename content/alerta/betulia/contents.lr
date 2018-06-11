@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Betulia
+---
+categoria: 6
+---
+indicador: 77,75%
+---
+limite: 80%
+---
+subregion: Suroeste

@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Campamento
+---
+categoria: 6
+---
+indicador: 77,74%
+---
+limite: 80%
+---
+subregion: Norte

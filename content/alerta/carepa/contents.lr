@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Carepa
+---
+categoria: 6
+---
+indicador: 75,45%
+---
+limite: 80%
+---
+subregion: Urabá

@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Sabanalarga
+---
+categoria: 6
+---
+indicador: 75,23%
+---
+limite: 80%
+---
+subregion: Occidente

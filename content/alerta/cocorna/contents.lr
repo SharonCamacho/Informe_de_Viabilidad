@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Cocorná
+---
+categoria: 6
+---
+indicador: 78,42%
+---
+limite: 80%
+---
+subregion: Oriente

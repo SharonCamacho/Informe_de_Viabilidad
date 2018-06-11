@@ -1,0 +1,13 @@
+_model: alerta
+---
+name: Cáceres
+---
+categoria: 6
+---
+indicador: 75,10%
+---
+limite: 80%
+---
+municipio: Cáceres
+---
+subregion: Bajo Cauca

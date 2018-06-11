@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Nariño
+---
+categoria: 6
+---
+indicador: 79,73%
+---
+limite: 80%
+---
+subregion: Oriente

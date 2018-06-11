@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Angostura
+---
+categoria: 6
+---
+indicador: 77,59%
+---
+limite: 80%
+---
+subregion: Norte

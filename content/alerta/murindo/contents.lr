@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Murindó
+---
+categoria: 6
+---
+indicador: 77,26%
+---
+limite: 80%
+---
+subregion: Urabá

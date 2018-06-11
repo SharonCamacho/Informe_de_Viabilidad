@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Tubo
+---
+categoria: 4
+---
+indicador: 78,69%
+---
+limite: 80%
+---
+subregion: Urabá

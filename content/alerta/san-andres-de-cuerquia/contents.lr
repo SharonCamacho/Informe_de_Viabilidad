@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: San Andrés de Cuerquia
+---
+categoria: 6
+---
+indicador: 78,92%
+---
+limite: 80%
+---
+subregion: Norte

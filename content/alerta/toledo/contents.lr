@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Toledo
+---
+categoria: 6
+---
+indicador: 79,79%
+---
+limite: 80%
+---
+subregion: Norte

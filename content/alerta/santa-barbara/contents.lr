@@ -1,0 +1,11 @@
+_model: alerta
+---
+municipio: Santa Bárbara
+---
+categoria: 6
+---
+indicador: 79,32%
+---
+limite: 80%
+---
+subregion: Suroeste
