@@ -1,19 +1,7 @@
-
-{
-  "os": "linux",
-  "dist": "trusty",
-  "group": "stable",
-  "deploy": {
-    "script": "lektor deploy --username $GITHUB_USER --password $GITHUB_PASS",
-    "provider": "script"
-  },
-  "python": 2.7,
-  "script": [
-    "lektor build"
-  ],
-  ".result": "configured",
-  "install": [
-    "pip install lektor"
-  ],
-  "language": "python"
-}
+language: python
+python: 3.5
+install: "pip install Lektor"
+script: "lektor build"
+deploy:
+  provider: script
+  script: "lektor deploy ghpages"
