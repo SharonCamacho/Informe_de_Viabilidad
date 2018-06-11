@@ -1,12 +1,17 @@
-deploy:
-  provider: script
-  script: "lektor deploy --username $GITHUB_USER --password $GITHUB_PASS"
 
-  {
+{
+  "os": "linux",
+  "dist": "trusty",
+  "group": "stable",
+  "deploy": {
+    "script": "lektor deploy --username $GITHUB_USER --password $GITHUB_PASS",
+    "provider": "script"
+  },
   "python": 2.7,
   "script": [
     "lektor build"
   ],
+  ".result": "configured",
   "install": [
     "pip install lektor"
   ],
